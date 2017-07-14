@@ -3,4 +3,5 @@ Introduction to Ethereum and it's possible use cases and how Ethereum is leverag
 
 by Jitendra Chittoda
 Software Developer at ION Trading India Pvt. Ltd.
+
 Leader Delhi & NCR Java User Group
