@@ -14,7 +14,7 @@ By Amit Kumar Jaiswal and and Vipin Rathi
 
 Amit Kumar is an open hacktivist and currently a Google Summer of Code Intern at [CNCF](https://cncf.io). Community is everything for him and love to speak on Programming stuffs to Cloud Computing.
 
-Vipin Kumar Rathi is persuing hin phd from JNU a openlab CERN student and Google Summer of Code. You can contact him on vipin68_scs@jnu.ac.in.
+Vipin Kumar Rathi is persuing his phd from JNU a openlab CERN student and Google Summer of Code. You can contact him on vipin68_scs@jnu.ac.in.
 
 # Introduction of Ethereum and Smart Contracts
 Introduction to Ethereum and it's possible use cases and how Ethereum is leveraging the power of Blockchain technology, creating a new revolution in distributed applications. Hands-on session on creating and deploying Smart Contract using Solidity on Ethereum blockchain.
