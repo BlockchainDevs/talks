@@ -23,4 +23,4 @@ by Jitendra Chittoda <br/>
 Software Developer at ION Trading India Pvt. Ltd. <br/>
 Leader Delhi & NCR Java User Group
 
-These talk was delivered @ Bamboo Hut South campus on 16th July 2017
+These talks were delivered @Bamboo Hut South campus on 16th July 2017
