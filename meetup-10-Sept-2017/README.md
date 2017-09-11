@@ -1,7 +1,7 @@
-#BlockChain, IOT, Mining & Smart Contracts/Apps <br>
+# BlockChain, IOT, Mining & Smart Contracts/Apps <br>
+Microsoft Corporation (I) Pvt. Ltd, Gurgaon
 
-
-##Schedule
+## Schedule
 
 2:00 - 3:00 Introductions
 
